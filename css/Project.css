@@ -1,4 +1,9 @@
-body{
-    background-color: cadetblue;
+#about-header{
+   color: whitesmoke;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000, 
+    1px 1px 0 #000;  
     
 }
