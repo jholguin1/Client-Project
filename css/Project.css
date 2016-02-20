@@ -14,5 +14,8 @@
 
 .text-paragraph{
     text-indent: 50px;
-    
+}
+
+input.error {
+    color: red;
 }
