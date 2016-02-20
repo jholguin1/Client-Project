@@ -7,3 +7,12 @@
     1px 1px 0 #000;  
     
 }
+
+#Under{
+    text-decoration: underline;
+}
+
+.text-paragraph{
+    text-indent: 50px;
+    
+}
